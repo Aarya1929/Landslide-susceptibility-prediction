@@ -1,0 +1,654 @@
+Latitude,Longitude,Length,Width,Height,Area,Depth,Volume,Run out distance,Type of Material,Type of movement,Rate of movement,Activity,Distribution,Style,Failure mechanism,Geomorphology,Land use/Land cover,Hydrological condition,Triggering Factor,Risk
+18.29186111,73.58819444,25,16,15,105,3,0.5,6.2,Rock,Slide,Very rapid,Reactivated,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, joint orientation conditions",Moderate
+18.1275,73.59430556,15,15,13,79.6,1.5,105.2,4.4,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.13241667,73.60616667,13,10,8,63.6,1.5,74,43.8,Debris-cum-rock,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Highly Dissected slope,Extensive Slope cut,Dry,Rainfall,Low
+18.12875,73.60702778,8,8,4.2,26.2,0.5,16,2.8,Rock,Fall,Rapid,Suspended,Enlarging,Multiple,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.12258333,73.60594444,10,10,8,46.1,1,36.5,15.4,Rock,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Joint orientation conditions, Anthropogenic factors",Low
+18.11219444,73.61305556,9,10,7,42.9,1,37.5,7.6,Rock-cum-debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.11063889,73.61605556,15,12,10,88.8,2,122.4,6.6,Debris,Slide,Rapid,Dormant,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.10372222,73.62722222,12,25,10,125.2,0.5,208,4.5,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.09480556,73.63727778,20,13,12,82.6,2,163.2,17.6,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.10057639,73.63974833,60,50,45,553.8,1.5,2118.8,200,Debris,Slide,Very rapid,Reactivated,Enlarging,Multiple,Deep Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.11497222,73.67619444,10,100,8,312,1.5,285.6,2.7,Debris,Slide,Rapid,Reactivated,Enlarging,Multiple,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.11572222,73.67626944,30,35,25,511,2,1502.6,16,Debris,Slide,Rapid,Reactivated,Widening,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.1165,73.67769444,12,8,9,34.6,1,39.4,2,Debris,Slide,Rapid,Reactivated,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.11205,73.682075,30,80,18,318.4076,3,548.9216,3,Debris,Slide,Moderate,Reactivated,Enlarging,Single,Shallow Rotational,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.11308333,73.69027778,13,40,11,229,1,442,11.1,Rock-cum-debris,Slide,Rapid,Reactivated,Retrogressive,Multiple,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.11911111,73.68769444,95,50,40,1005,15,3650,182,Debris,Slide,Moderate,Reactivated,Enlarging,Single,Deep Rotational,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.10680556,73.70291667,20,25,12,207.7,3,379.5,3.5,Debris,Slide,Moderate,Reactivated,Enlarging,Single,Shallow Rotational,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.117117,73.696431,12,10,4,60,0.6,36,2,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.118147,73.692665,15,35,3,263,2,525,1,Debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.114392,73.691453,5,8,1,20,1,20,1,Debris,Slide,Moderate,Active,Enlarging,Single,Shallow Rotational,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.11298,73.690824,5,4,1,10,0.3,3,1,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.112975,73.690651,12,6,2,36,2,72,3,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.111384,73.689535,6,20,1,60,0.5,30,1,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.128297,73.585215,80,30,34,1200,4,4800,40,Debris,Slide,Very rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Damp,"Rainfall, anthropogenic factors",High
+18.127487,73.586398,60,10,21,300,2,600,5,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.127175,73.586911,100,20,42,1000,3,3000,170,Debris,Slide,Very rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",High
+18.125711,73.588009,8,10,4,40,1.5,60,3,Debris,Slide,Very rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.125621,73.588332,12,10,8,60,2.5,150,150,Rock,Slide,Very rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",High
+18.125457,73.588408,35,7,25,123,1,123,3,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Damp,"Rainfall, anthropogenic factors",Moderate
+18.124595,73.588287,12,6,9,36,3,108,5,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.127899,73.593942,8,13,1,52,0.2,10,1,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.127986,73.594021,15,10,11,75,1.5,113,2,Debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.12757,73.594871,12,25,3,150,1.5,225,1,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.127405,73.596613,8,5,1,20,1,20,1,Rock,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.127603,73.597045,40,15,23,300,2,600,5,Debris,Slide,Very rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Damp,"Rainfall, anthropogenic factors",Moderate
+18.133175,73.608174,90,10,85,450,1,450,100,Debris,Flow,Very rapid,Suspended,Enlarging,Single,Shallow Planar,Highly Dissected slope,Extensive Slope cut,Dry,Rainfall,Moderate
+18.131318,73.605851,9,16,5,72,2.5,180,5,Debris,Slide,Moderate,Suspended,Enlarging,Single,Deep Planar,Lowly Dissected Slope,Extensive Slope cut,Damp,"Rainfall, anthropogenic factors",Moderate
+18.128994,73.605125,1,12,1,9,0.8,7,3,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.128271,73.604574,15,11,11,83,0.5,41,8.2,Debris,Slide,Rapid,Dormant,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.127944,73.604458,12,6,9,36,0.4,14,40,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.126519,73.605882,64,14,45,448,0.5,224,230,Debris,Flow,Very rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.125739,73.604599,180,12,163,1080,0.3,324,200,Rock,Slide,Very rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Moderate
+18.123895,73.602371,12,10,6,60,0.5,30,70,Debris,Slide,Moderate,Dormant,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.122498,73.602738,25,12,23,150,1,150,40,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Highly Dissected slope,Extensive Slope cut,Dry,Rainfall,High
+18.126428,73.60512,6,5,4,15,0.5,8,1,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Highly Dissected slope,Extensive Slope cut,Damp,Rainfall,Low
+18.127722,73.606556,5,4,2,10,0.7,7,2,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Highly Dissected slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.12845,73.607314,6,2,6,6,0.4,2,1,Rock,Fall,Rapid,Suspended,Enlarging,Single,Shallow Planar,Highly Dissected slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",High
+18.128097,73.607185,5,4,5,10,0.5,5,5,Rock,Fall,Rapid,Suspended,Enlarging,Complex,Shallow Planar,Highly Dissected slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.127882,73.607126,5,2,5,6,0.5,3,2,Rock,Fall,Rapid,Suspended,Enlarging,Complex,Shallow Planar,Highly Dissected slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.127742,73.60704,7,3,7,11,5,53,2,Rock,Fall,Rapid,Suspended,Enlarging,Complex,Shallow Planar,Highly Dissected slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.127293,73.606823,10,15,10,75,0.4,30,2,Rock,Fall,Rapid,Suspended,Enlarging,Complex,Shallow Planar,Highly Dissected slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",High
+18.1273,73.606693,11,3,11,17,0.6,10,2,Rock,Fall,Rapid,Suspended,Enlarging,Complex,Shallow Planar,Highly Dissected slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",High
+18.125382,73.606219,7,4,7,14,0.5,7,3,Rock,Fall,Very rapid,Active,Enlarging,Complex,Shallow Planar,Highly Dissected slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",High
+18.120174,73.603893,12,5,7,30,0.5,15,1,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.120041,73.603825,15,6,10,45,1,45,2,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.114236,73.605894,7,7,2,25,0.5,12,15,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.113721,73.606801,16,40,9,320,1.5,480,40,Debris,Slide,Moderate,Suspended,Enlarging,Multiple,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.113652,73.607359,9,15,7,68,0.5,34,1,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.113169,73.608723,22,10,13,110,1.5,165,5,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Damp,"Rainfall, anthropogenic factors",Moderate
+18.112693,73.60957,25,2,11,25,1,25,15,Debris,Flow,Very rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.112642,73.609756,5,4,4,10,0.5,5,10,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Moderate
+18.112557,73.609966,3,2,2,4,0.5,2,7,Rock,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.111788,73.611071,8,7,6,28,0.5,14,2,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.112195,73.612394,20,10,14,100,1,100,40,Debris,Slide,Very rapid,Suspended,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.111488,73.611124,15,12,11,90,2.5,225,2,Debris,Slide,Rapid,Reactivated,Widening,Single,Deep Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.111341,73.609896,24,8,18,96,0.7,67,60,Debris,Flow,Very rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Moderate
+18.110767,73.610504,20,7,17,70,0.3,21,25,Debris,Flow,Very rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,High
+18.110553,73.610449,35,8,30,140,0.5,70,30,Debris,Flow,Very rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,High
+18.108975,73.610218,60,25,25,750,2,1500,90,Debris,Flow,Very rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,High
+18.110907,73.6115,8,6,8,24,0.8,19,4,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.11069,73.611696,18,3,17,27,1,27,70,Debris,Flow,Very rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,High
+18.110638,73.612053,25,20,23,250,2,500,15,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",High
+18.110546,73.612194,5,3,5,8,1,8,17,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,High
+18.107056,73.611882,55,17,32,468,1.5,701,180,Debris,Flow,Very rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,High
+18.110826,73.615806,20,30,17,300,2,600,30,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",High
+18.110589,73.616003,5,5,3,13,0.4,5,1,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.109831,73.615422,25,5,19,63,0.5,31,10,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.108277,73.615884,20,8,16,80,0.6,48,1,Debris,Slide,Very rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",High
+18.105307,73.614409,100,18,50,900,1.5,1350,250,Debris,Flow,Very rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,High
+18.107579,73.615942,9,6,6,27,1,27,5,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.107236,73.616366,6,4,5,12,2,24,10,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.107306,73.617026,15,11,8,83,1.5,124,20,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.107646,73.617176,8,15,7,60,2,120,16,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Damp,"Rainfall, anthropogenic factors",Moderate
+18.107811,73.617539,8,7,4,28,1.5,42,2,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Rotational,Lowly Dissected Slope,Extensive Slope cut,Damp,"Rainfall, anthropogenic factors",Moderate
+18.107514,73.617631,6,13,3,39,0.6,23,3,Debris,Slide,Moderate,Reactivated,Enlarging,Single,Shallow Rotational,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.107208,73.617669,3,3,2,5,0.3,2,4,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Moderate
+18.106724,73.619925,7,7,5,25,0.3,7,2,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.106436,73.62027,4,11,3,22,0.4,9,2,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.106565,73.620546,7,8,4,28,0.6,17,4,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Damp,"Rainfall, anthropogenic factors",High
+18.10641,73.621022,25,4,20,50,0.3,15,15,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,High
+18.106259,73.621592,15,5,14,38,0.3,11,10,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Moderate
+18.106482,73.62504,4,4,3,8,0.3,2,2,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.106306,73.625039,6,5,3,15,0.3,5,2,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.106079,73.62512,2,4,1,5,0.3,2,1,Debris,Slide,Moderate,Dormant,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.105946,73.625532,5,11,3,28,0.6,17,4,Debris,Slide,Moderate,Dormant,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.103411,73.626413,40,6,33,120,1.5,180,20,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,High
+18.103365,73.626623,40,15,33,300,1.5,450,20,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,High
+18.103711,73.627192,4,5,2,10,0.2,2,2,Debris,Slide,Rapid,Dormant,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.10391,73.627926,11,15,6,83,0.5,41,5,Debris,Slide,Rapid,Reactivated,Retrogressive,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",High
+18.105584,73.62996,30,9,17,135,0.7,95,200,Debris,Flow,Very rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,High
+18.103571,73.628423,15,12,10,90,0.3,27,3,Debris,Slide,Moderate,Dormant,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.102537,73.628642,15,5,13,38,0.5,19,50,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Moderate
+18.102511,73.62746,30,40,23,600,0.3,180,20,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.100396,73.6288,6,4,3,12,0.5,6,1,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.099706,73.629005,6,12,6,36,0.5,18,2.4,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.100106,73.632124,70,20,54,700,2.5,1750,10,Debris,Slide,Very rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",High
+18.099568,73.631594,10,6,4,30,0.5,15,5,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.098659,73.630467,15,5,12,38,0.5,19,4,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.096382,73.631827,5,7,2,18,0.5,9,2.8,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.095848,73.632566,15,13,8,98,2,195,2,Debris,Slide,Rapid,Suspended,Enlarging,Single,Deep Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.095404,73.634753,8,25,8,100,0.3,30,4,Debris,Slide,Moderate,Reactivated,Retrogressive,Single,Shallow Planar,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.095863,73.635416,15,30,8,225,2,450,3.1,Debris,Slide,Moderate,Dormant,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.096675,73.634688,35,17,27,298,1.5,446,112,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.096783,73.63671,15,4,10,30,0.5,15,25,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.096635,73.636744,15,4,10,30,0.5,15,25,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.095977,73.636675,12,13,6,78,1,78,4,Debris,Slide,Moderate,Dormant,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.095452,73.636626,10,12,6,60,2,120,6,Debris,Slide,Rapid,Reactivated,Retrogressive,Single,Shallow Rotational,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.095174,73.636683,7,4,4,14,1,14,6.4,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Rotational,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.094887,73.637321,9,7,4,32,1.5,47,2.8,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Rotational,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.094725,73.638026,3,4,2,6,0.3,2,3,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.095297,73.638746,8,10,5,40,1.5,60,4,Debris,Slide,Moderate,Dormant,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.096067,73.63894,10,11,8,55,0.4,22,25,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Moderate
+18.096326,73.641241,7,10,3,35,0.6,21,3,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.100204,73.641383,35,26,25,455,4,1820,2,Debris,Slide,Very rapid,Suspended,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.097736,73.642641,12,15,8,90,1.5,135,3,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.096492,73.642642,10,7,8,35,2,70,4,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.097873,73.645184,5,3,3,8,0.3,2,2,Debris,Slide,Moderate,Reactivated,Diminishing,Single,Shallow Planar,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.098776,73.645009,12,23,8,138,0.7,97,10,Debris,Slide,Very rapid,Suspended,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Extensive Slope cut,Dry,Rainfall,Moderate
+18.098762,73.645354,2,2,2,2,0.2,0,6,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.098544,73.645485,8,7,6,28,0.2,6,5,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.098195,73.64663,6,4,5,12,0.4,5,5,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.09804,73.646782,7,7,6,25,1,25,6,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",High
+18.09795,73.647018,6,9,4,27,0.1,3,3,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.098556,73.647997,7,9,2,32,1,32,1,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.098937,73.647414,25,15,19,188,4,750,35,Debris,Slide,Very rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Moderate
+18.10011,73.648092,5,30,2,75,0.5,38,3.4,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.100253,73.647592,10,6,4,30,0.82,0,40,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.098088,73.650475,8,12,4,48,1.5,72,4,Debris,Slide,Rapid,Suspended,Enlarging,Complex,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,High
+18.09791,73.65069,10,8,7,40,1.5,60,2.8,Debris,Slide,Moderate,Dormant,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.099171,73.651678,5,3,3,8,0.5,4,1,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.100185,73.651493,12,20,4,120,1.5,180,1.8,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Moderate
+18.100874,73.652453,8,10,3,40,1.5,60,3,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.10073,73.652393,5,4,2,10,1.5,15,4.6,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Moderate
+18.100517,73.652325,5,4,2,10,1,10,3,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.100348,73.652312,6,3,3,9,0.5,5,3,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.100198,73.652356,10,8,4,40,1.5,60,3,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.099491,73.653201,8,8,5,32,0.5,16,1,Debris,Slide,Rapid,Reactivated,Widening,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.099036,73.654663,6,3,3,9,0.5,5,1,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.098716,73.654577,10,5,4,25,1.5,38,4,Debris,Slide,Moderate,Suspended,Enlarging,Complex,Deep Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.098674,73.65451,5,5,2,13,0.5,6,5,Debris,Slide,Rapid,Suspended,Enlarging,Complex,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,High
+18.095154,73.655021,7,7,6,25,1.5,37,3,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Moderate
+18.096276,73.655006,3,4,3,6,0.6,4,3,Rock,Slide,Rapid,Dormant,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.098354,73.659484,9,10,3,45,0.6,27,4,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",High
+18.102154,73.662151,8,2,8,8,1.5,12,2,Rock,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",High
+18.103886,73.66299,8,6,7,24,0.4,10,4,Debris,Slide,Moderate,Dormant,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.103725,73.663447,3,3,2,5,1,5,2,Debris,Slide,Moderate,Dormant,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.104966,73.663419,8,15,4,60,0.2,12,4,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.105615,73.662666,5,5,2,13,0.5,6,2,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.106022,73.662144,6,5,2,15,0.5,8,2.2,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Damp,"Rainfall, anthropogenic factors",Low
+18.106163,73.661536,7,4,3,14,0.5,7,2,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Damp,"Rainfall, anthropogenic factors",Moderate
+18.106164,73.661337,8,6,3,24,0.5,12,7.2,Debris,Slide,Very rapid,Reactivated,Retrogressive,Complex,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dripping,"Rainfall, anthropogenic factors",Moderate
+18.106629,73.660694,5,2,5,5,0.3,2,1.8,Rock,Slide,Very rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dripping,"Rainfall, anthropogenic factors",Low
+18.106646,73.659526,30,40,13,600,5,3000,50,Debris,Slide,Very rapid,Suspended,Enlarging,Single,Deep Planar,Lowly Dissected Slope,Extensive Slope cut,Damp,Rainfall,High
+18.107442,73.659567,4,4,2,8,0.3,2,3,Rock,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.107893,73.65938,3,3,2,5,0.2,1,2,Rock,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.108057,73.659266,4,8,3,16,0.4,6,2,Rock,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.109301,73.659679,4,12,1,24,0.4,10,8,Debris,Slide,Moderate,Suspended,Enlarging,Single,Deep Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.109903,73.662063,5,7,2,18,0.3,5,4,Rock,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.109599,73.66259,8,11,1,44,1,44,8,Debris,Slide,Rapid,Reactivated,Diminishing,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.110496,73.665364,9,9,3,41,2,81,8,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",High
+18.11019,73.667196,5,6,4,15,0.5,8,2,Rock,Slide,Moderate,Dormant,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.109769,73.667012,5,3,2,8,0.6,5,3,Rock,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.109981,73.667917,9,15,6,68,3,203,12,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.109589,73.667728,3,3,1,5,0.5,2,2,Rock,Slide,Moderate,Dormant,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.10967,73.667808,3,4,1,6,0.7,4,2,Rock,Slide,Rapid,Dormant,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.10975,73.667888,3,5,1,8,0.5,4,3,Rock,Slide,Rapid,Dormant,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.109955,73.668235,6,6,2,18,0.5,9,4,Rock,Slide,Rapid,Dormant,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.110032,73.668304,7,4,2,14,0.5,7,1,Rock,Slide,Rapid,Dormant,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.110333,73.673567,4,4,2,8,0.3,2,2,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.110691,73.673596,4,3,2,6,0.5,3,2,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.111018,73.673549,8,12,5,48,0.6,29,6,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.112129,73.6747,3,7,0,12,0.7,9,2,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",High
+18.112801,73.674953,7,10,1,35,0.6,21,3,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",High
+18.11314,73.674599,25,40,4,500,4,2000,10,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",High
+18.113821,73.675118,8,18,2,72,0.5,36,2,Debris,Slide,Rapid,Suspended,Enlarging,Multiple,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.113773,73.675537,8,5,2,20,0.5,10,2,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.113793,73.675742,7,11,2,39,0.5,19,2,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.114776,73.676179,6,20,3,60,0.5,30,2,Debris,Slide,Rapid,Suspended,Enlarging,Multiple,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Damp,"Rainfall, anthropogenic factors",Low
+18.115075,73.676213,9,13,5,59,0.5,29,2,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.11644,73.676647,12,45,3,270,0.5,135,3.5,Debris,Slide,Rapid,Suspended,Enlarging,Multiple,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",High
+18.116902,73.676742,8,8,3,32,1,32,2,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",High
+18.117223,73.67681,6,3,3,9,0.5,5,2,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.117339,73.677642,10,25,3,125,0.5,63,3,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.11284,73.680603,20,10,8,100,3,300,5,Debris,Slide,Rapid,Confined,Enlarging,Single,Shallow Rotational,Lowly Dissected Slope,Extensive Slope cut,Damp,"Rainfall, anthropogenic factors",Low
+18.11105556,73.66213889,15,25,11,188,3,563,5,Debris,Slide,Moderate,Suspended,Enlarging,Multiple,Deep Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.11573333,73.65362389,25,30,23,375,2.5,938,10,Debris,Slide,Rapid,Suspended,Enlarging,Single,Deep Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.11492222,73.64321667,70,35,30,1225,6,7350,94,Debris,Slide,Very rapid,Suspended,Enlarging,Single,Deep Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.11225556,73.65584167,7,10,4,35,0.5,18,2,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.10331944,73.66490833,35,25,15,438,4,1750,3.9,Debris,Slide,Moderate,Suspended,Enlarging,Single,Deep Rotational,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.11788333,73.610975,12,12,5,72,2,144,4,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Rotational,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.11553611,73.607275,18,40,9,360,4,1440,5,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Rotational,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Moderate
+18.11628889,73.60666389,35,12,22,210,1,210,20,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Moderate
+18.09922806,73.63648472,50,40,35,1000,6,6000,15,Debris,Slide,Very rapid,Suspended,Enlarging,Single,Deep Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.09792778,73.63742222,12,10,9,60,1,60,40,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.12047444,73.60094444,30,35,17,525,3,1575,8,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Rotational,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.09718056,73.63626639,22,7,18,77,1.5,116,5,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.365483,73.760324,7,3,6,9,0.8,7,5.6,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.365263,73.760597,5,5.5,5,13,1,13,3.8,Rock,Slide,Moderate,Suspended,Confined,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.364743,73.762328,2,6,2,6,0.2,1,3.7,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.364593,73.762975,2,2.5,2,2,0.3,1,3.7,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Highly Dissected  Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.364561,73.763034,2,3,2,3,0.4,1,2.9,Rock,Fall,Rapid,Suspended,Confined,Single,Shallow Planar,Upslope: Highly Dissected  Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.364427,73.763348,2.5,23,2,29,0.4,11,2.1,Rock,Slide,Rapid,Suspended,Confined,Multiple,Shallow Translational,Upslope: Highly Dissected  Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.36428,73.763855,4,15,4,30,0.3,9,4.2,Rock,Slide,Rapid,Dormant,Confined,Single,Shallow Translational,Upslope: Highly Dissected  Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.363962,73.765671,7,6,7,21,2,42,2.6,Rock,Slide,Rapid,Stabilized,Confined,Single,Shallow Translational,Upslope: Highly Dissected  Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.363733,73.765747,2.5,3.5,2,4,1,4,4,Rock,Fall,Rapid,Stabilized,Confined,Single,Shallow Planar,Upslope: Highly Dissected  Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.363631,73.765812,5,13,5,32,0.8,26,2.8,Rock,Slide,Rapid,Stabilized,Confined,Multiple,Shallow Translational,Upslope: Highly Dissected  Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.36352,73.765914,4,7,3,12,0.3,4,3.3,Rock,Slide,Rapid,Suspended,Advancing,Single,Shallow Translational,Upslope: Highly Dissected  Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.363122,73.766504,5,12,5,28,0.3,8,4.3,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Highly Dissected  Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.362741,73.767875,2,3,2,3,0.3,1,2.9,Rock,Fall,Rapid,Suspended,Confined,Single,Shallow Planar,Upslope: Highly Dissected  Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.362299,73.768865,5,3.5,5,9,1,9,6.4,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.362192,73.769895,3,42,3,59,0.4,24,3.4,Rock,Slide,Moderate,Dormant,Confined,Single,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.362164,73.77048,7,5,7,17,2,34,3,Rock,Slide,Rapid,Suspended,Confined,Multiple,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.362153,73.77083,5,10,5,24,1,24,3.8,Rock,Slide,Rapid,Dormant,Confined,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.362096,73.771794,6,8,6,23,1.5,35,2.2,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Moderately Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.361828,73.7727,6,19,6,57,0.5,28,1.6,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Moderately Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.361783,73.772761,1,6,1,3,0.1,0.3,2.6,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Moderately Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.36172,73.772902,8,5,8,20,0.3,6,5,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Moderately Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.361685,73.773273,11,88,11,484,2,967,4.7,Rock,Fall,Rapid,Stabilized,Confined,Multiple,Shallow Planar,Upslope: Moderately Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.361884,73.773797,2,31,2,29,0.5,15,3.6,Debris,Slide,Moderate,Dormant,Retrogressive,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.362114,73.773865,1.5,4.5,1,3,0.05,0.2,2.4,Rock,Fall,Rapid,Suspended,Retrogressive,Single,Shallow Planar,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.362175,73.773998,1,7,1,3,0.3,1,2.6,Rock,Fall,Moderate,Suspended,Retrogressive,Single,Shallow Planar,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.362945,73.775157,8,11.5,8,46,0.3,14,2.4,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.363223,73.775261,3,4,3,6,0.2,1,4.2,Rock,Slide,Rapid,Suspended,Widening,Single,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.363929,73.77605,9,43,9,191,1,191,3.5,Debris,Slide,Moderate,Suspended,Confined,Single,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.364305,73.776481,2.5,2,2,2,0.05,0,4.7,Rock,Slide,Moderate,Suspended,Widening,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.364803,73.776031,5,5.5,5,13,0.5,7,4,Rock,Slide,Moderate,Suspended,Retrogressive,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.365112,73.775939,2,13,2,13,0.3,4,6.7,Rock,Fall,Rapid,Suspended,Retrogressive,Single,Shallow Planar,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.365224,73.7759,1.5,2.5,1,2,0.2,0.4,6.6,Rock,Slide,Rapid,Dormant,Retrogressive,Single,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.367111,73.775667,3.5,39,3,65,1,65,3.6,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.369328,73.775813,3.5,8,3,14,0.6,8,2.8,Debris,Slide,Moderate,Suspended,Retrogressive,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.371361,73.77725,1.5,12.5,1,9,0.3,3,6.9,Rock,Fall,Rapid,Dormant,Confined,Single,Shallow Planar,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.37287,73.778068,3,11,3,16,1,16,3.8,Debris,Slide,Moderate,Dormant,Retrogressive,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.373628,73.777868,3,10,3,15,2,30,5,Debris,Slide,Moderate,Suspended,Widening,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.376899,73.777098,4,22,4,41,1,41,1.7,Rock,Fall,Moderate,Suspended,Confined,Single,Shallow Planar,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.377101,73.776949,5,15,4,32,0.6,19,2.5,Rock,Slide,Moderate,Suspended,Widening,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.377558,73.776827,4,5,4,9,0.7,7,5.4,Rock,Slide,Rapid,Dormant,Confined,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.3778,73.776791,6,20.5,6,59,0.5,30,1.6,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.379233,73.777044,3,4.5,3,7,0.4,3,3.4,Rock,Slide,Rapid,Dormant,Confined,Single,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.379806,73.776944,6,7,6,20,1,20,4.2,Rock,Slide,Rapid,Suspended,Retrogressive,Single,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.380119,73.776842,2,2,2,2,0.5,1,6.9,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.380472,73.776829,7,9,6,28,0.2,6,2.7,Rock,Slide,Rapid,Suspended,Confined,Multiple,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.380632,73.776758,1.5,5,1,4,0.4,1,2.5,Rock,Slide,Rapid,Dormant,Confined,Single,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.380915,73.776477,7,10,5,25,1,25,3.8,Rock,Slide,Rapid,Dormant,Retrogressive,Single,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.381489,73.776153,2.5,1.5,2,2,0.4,1,4.5,Rock,Slide,Rapid,Dormant,Confined,Single,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.381549,73.776112,4,5,4,10,0.7,7,5.4,Debris,Slide,Moderate,Dormant,Retrogressive,Single,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.38175,73.775987,4,8,4,16,0.4,6,2.6,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.381889,73.775917,3,3.5,3,5,0.5,3,3.4,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.382304,73.77577,5,6,5,15,0.6,9,4,Rock,Slide,Rapid,Dormant,Confined,Multiple,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.382447,73.775746,7,4.5,7,16,0.6,9,2.4,Rock,Fall,Rapid,Dormant,Confined,Single,Shallow Planar,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.383283,73.775406,5,11,5,26,0.4,10,4.9,Rock,Slide,Rapid,Dormant,Retrogressive,Single,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.383533,73.775319,3,10,2.5,13,0.5,6,3.6,Rock,Fall,Rapid,Suspended,Confined,Single,Shallow Planar,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.385448,73.77438,5,4,5,10,0.5,5,5.4,Rock,Slide,Rapid,Dormant,Confined,Single,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.385926,73.774189,3,7,3,10,0.5,5,3.4,Rock,Fall,Rapid,Suspended,Confined,Single,Shallow Planar,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.386073,73.774147,3,10,3,15,0.3,4,2.9,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.386678,73.773937,1.5,11,1,8,0.3,2,7.1,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.386806,73.773917,3,3,3,3,0.3,1,3.9,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Ridge,Extensive Slope cut,Dry,Rainfall,Low
+18.387347,73.774053,3,2.5,3,4,0.3,1,4,Debris,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.387747,73.774559,1.5,3,1,2,0.3,1,6.2,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.388444,73.774083,2.5,1.5,2,2,0.2,0.4,4.7,Rock,Fall,Rapid,Suspended,Confined,Single,Shallow Planar,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.388665,73.773843,4,4,4,8,0.5,4,2.8,Rock,Fall,Rapid,Suspended,Confined,Single,Shallow Planar,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.388806,73.773778,2,1,2,1,0.6,1,7.1,Rock,Fall,Rapid,Suspended,Confined,Single,Shallow Planar,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.38888,73.773687,2,2,2,2,0.3,1,4.7,Rock,Fall,Rapid,Suspended,Confined,Single,Shallow Planar,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.388839,73.773313,2.5,1,2,1,0.3,0.4,4.7,Rock,Fall,Rapid,Suspended,Widening,Single,Shallow Planar,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.389581,73.774824,3,2,3,3,0.6,2,5,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Bench,Extensive Slope cut,Dry,Rainfall,Low
+18.389611,73.774722,2,4,2,4,0.8,3,3.8,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Bench,Extensive Slope cut,Dry,Rainfall,Low
+18.390097,73.774289,5,7,5,16,0.3,5,2.3,Rock,Fall,Rapid,Suspended,Confined,Multiple,Shallow Planar,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.390403,73.773938,5,4,5,9,0.5,5,4.8,Debris,Slide,Rapid,Dormant,Retrogressive,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.390547,73.773839,7,20,6,61,0.2,12,2.4,Debris,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.390714,73.773667,4,5.7,4,11,0.8,9,2.8,Rock,Slide,Rapid,Suspended,Widening,Multiple,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.390844,73.773461,3,6,3,9,0.5,4,3.2,Rock,Slide,Rapid,Suspended,Widening,Multiple,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.390927,73.773378,1,1.5,1,1,0.4,0.3,6.6,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.391244,73.772892,1.5,1,1,1,0.3,0.2,7.3,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.391019,73.772581,3,4,3,6,0.3,2,3.2,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.390826,73.772364,3,8,3,11,0.4,4,3.4,Rock,Slide,Rapid,Suspended,Widening,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.390477,73.771991,8,72,8,271,0.3,81,4.6,Rock,Slide,Moderate,Dormant,Confined,Multiple,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.39346,73.771402,3,9,3,12,0.4,5,4.2,Rock,Slide,Rapid,Dormant,Widening,Single,Shallow Translational,Upslope: Bench,Extensive Slope cut,Dry,Rainfall,Low
+18.368614,73.778269,2.5,6,2,7,0.2,1,4.8,Rock,Slide,Rapid,Suspended,Widening,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.36855,73.778294,3,3.4,3,5,0.4,2,4.2,Rock,Slide,Moderate,Dormant,Retrogressive,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.368412,73.778433,2,4,2,4,0.3,1,1.7,Rock,Fall,Rapid,Suspended,Confined,Single,Shallow Planar,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.368317,73.778497,3,2.3,3,3,0.2,1,3.9,Rock,Slide,Rapid,Suspended,Widening,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.368017,73.7786,3,29,3,42,0.3,13,3,Rock,Slide,Rapid,Suspended,Widening,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.368019,73.778287,7,18,7,60,0.5,30,1.7,Rock,Slide,Moderate,Suspended,Confined,Multiple,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.367981,73.778093,5,6.5,5,15,0.3,5,1.7,Rock,Slide,Rapid,Suspended,Confined,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.367841,73.777927,4,12.5,4,23,0.2,5,3.6,Rock,Slide,Moderate,Suspended,Confined,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.366983,73.777178,3,3,3,4,0.5,2,4,Debris,Slide,Moderate,Dormant,Confined,Single,Shallow Translational,Upslope: Moderately Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.365786,73.777492,5,7.3,5,17,1,17,4.6,Rock,Slide,Rapid,Dormant,Confined,Single,Shallow Translational,Upslope: Moderately Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.365589,73.777978,4,7.5,4,14,0.5,7,2.8,Rock,Slide,Moderate,Suspended,Confined,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.365481,73.778061,4.5,9,4,19,1,19,3.2,Rock,Slide,Moderate,Dormant,Confined,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.364803,73.7788,5,14,5,33,0.2,7,2.9,Rock,Slide,Moderate,Suspended,Confined,Multiple,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.364603,73.779414,7,8,6,24,1,24,3.6,Rock,Slide,Moderate,Suspended,Confined,Multiple,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.364692,73.779706,6,30,6,85,0.5,42,3.4,Rock,Slide,Moderate,Suspended,Confined,Single,Shallow Translational,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.364741,73.779917,6,28,6,81,0.3,24,2.9,Rock,Fall,Moderate,Dormant,Confined,Single,Shallow Planar,Upslope: Lowly Dissected Slope,Extensive Slope cut,Dry,Rainfall,Low
+18.390278,73.77225,15,76,5,159,1,159,4.7,Rock,Fall,Rapid,Reactivated,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.389889,73.774444,5,14,4,30,1,30,3.4,Rock,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.388472,73.774,5,6,5,14,2,21,5.4,Rock,Fall,Rapid,Active,Enlarging,Single,Wedge,Moderately Dissected Slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.386215,73.774541,12,30,4,62,1,31,3.4,Rock,Fall,Moderate,Active,Enlarging,Multiple,Shallow Planar,Highly Dissected slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.38276,73.775659,8,11,8,42,2,83,3.6,Rock,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.38338,73.775407,15,1011,13,6695,1,6695,47.4,Rock,Slide,Rapid,Active,Enlarging,Multiple,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.377724,73.777382,10,64,10,313,1,313,4.4,Rock,Fall,Rapid,Active and Dormant,Widening,Multiple,Shallow Planar,Highly Dissected slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.361933,73.772191,4,7,4,12,0.3,1,2.4,Rock,Fall,Rapid,Active,Enlarging,Single,Shallow Planar,Highly Dissected slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.362852,73.766662,8,13,6,37,0.2,4,5,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.364217,73.76491,13,12,9,55,0.1,6,9,Rock,Fall,Rapid,Active,Enlarging,Single,Shallow Planar,Highly Dissected slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.367548,73.77761,4,18,2,18,0.4,7,1.5,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.365043,73.76055,23,221,14,1565,1,1565,4.7,Rock,Fall,Rapid,Active,Confined,Multiple,Shallow Planar,Plateau Top,Extensive Slope cut,Dry,Anthropogenic factors,Low
+17.94133333,73.86216667,5,2,4,4,0.5,2,2,Debris,Slide,Very rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.93655556,73.85613889,8,6,7,21,1.5,31.5,1,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.93641667,73.85622222,5,4,4,8,1,8,2,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.93625,73.856,3,6,3,9,0.5,4.5,1,Debris,Slide,Very rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.93605556,73.85572222,2,2,2,2,0.5,1,0.5,Debris,Slide,Very rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.93605556,73.85572222,4,3,4,6,1,6,1,Debris,Slide,Very rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.93338889,73.85183333,10,25,8,100,5,500,1,Debris,Slide,Rapid,Reactivated,Diminishing,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.93236111,73.85013889,4,3,3,4.5,0.5,2.25,3.4,Debris,Slide,Very rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.93236111,73.85013889,3,2,2,2,0.5,1,4.5,Debris,Slide,Very rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.93263889,73.84966667,15,10,12,60,2,120,4,Debris,Slide,Very rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.93275,73.84855556,4,2,3,3,0.5,1.5,4.2,Debris,Slide,Very rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.93280556,73.84813889,3,2,2,2,1,2,6,Debris,Slide,Very rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.93283333,73.8475,2,2,1,1,1,1,18,Debris,Slide,Very rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.93141667,73.84313889,10,5,8,20,1,20,5,Debris,Slide,Very rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.93111111,73.84255556,2,10,2,10,0.5,5,5,Debris,Fall,Very rapid,Active,Enlarging,Single,Fall,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.93011111,73.84072222,5,7,4,14,1,14,8,Debris,Fall,Very rapid,Active,Enlarging,Single,Fall,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.93011111,73.84011111,2,2,3,3,1,3,5,Debris,Fall,Very rapid,Active,Enlarging,Single,Fall,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92936111,73.83727778,3,2,2,2,0.5,1,5,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92930556,73.83652778,8,30,7,105,1.5,157.5,6,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92936111,73.8365,8,6,5,15,2,30,5,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92930556,73.83597222,4,6,4,12,0.5,6,5,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92944444,73.83511111,5,5,3,7.5,1,7.5,8,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92955556,73.83463889,8,20,7,70,0.5,35,4,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.93066667,73.82708333,3,3,2,3,0.5,1.5,2,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.93086111,73.83261111,4,6,3,9,0.5,4.5,6,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.93102778,73.83230556,5,4,4,8,0.5,4,2,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.93147222,73.83188889,8,3,7,10.5,0.5,5.25,2,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.93188889,73.83188889,6,5,5,12.5,0.5,6.25,10,Debris,Fall,Rapid,Active,Enlarging,Single,Fall,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.93191667,73.83111111,3,2,2,2,0.5,1,5,Debris,Fall,Rapid,Active,Enlarging,Single,Fall,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.93313889,73.83058333,3,5,2,5,0.5,2.5,5,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.93427778,73.83077778,5,5,4,10,0.5,5,5,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.93475,73.83113889,8,6,7,21,0.5,10.5,12,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.9355,73.83219444,15,5,13,32.5,2,65,8,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.93644444,73.83252778,10,5,8,20,2,40,5,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.938,73.83138889,4,6,3,9,0.5,4.5,2,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.93922222,73.83141667,4,6,3,9,0.5,4.5,2,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.9395,73.83141667,8,2,7,7,0.5,3.5,3,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.93858333,73.82672222,9,25,8,100,3,300,4,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.93858333,73.82672222,8,30,7,105,2,210,7,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.93780556,73.82636111,11,20,8,80,2,160,7,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.93727778,73.82616667,7,18,6,54,2,108,10,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.93705556,73.82591667,10,12,9,54,2,108,5,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.93688889,73.82572222,4,5,3,7.5,0.5,3.75,7,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.93611111,73.82355556,7,4,6,12,0.5,6,7,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.93622222,73.83172222,9,5,7,17.5,1,17.5,9,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.93619444,73.82322222,6,5,4,10,2,20,4,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.93627778,73.82275,5,6,4,12,0.5,6,2,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.93408333,73.81819444,9,3,7,10.5,1,10.5,8,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92916667,73.83736111,5,45,4,90,3,270,4,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92911111,73.83780556,3,5,2,5,2,10,5,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92913889,73.83819444,3,5,2,5,1,5,5,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.92922222,73.83822222,3,4,2,4,1,4,4,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.92938889,73.83880556,9,9,7,31.5,1,31.5,4,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.92938889,73.83905556,4,7,3,10.5,2,21,8,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.92952778,73.83925,9,12,7,42,1,42,4,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Rainfall,Low
+17.92952778,73.83933333,4,12,3,18,3,54,7,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92958333,73.83938889,2,4,1,2,1,2,4,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92980556,73.84083333,4,18,3,27,1,27,6,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92986111,73.84119444,5,12,3,18,2,36,5,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92991667,73.84138889,4,13,2,13,1,13,5,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92994444,73.8415,3,4,2,4,1,4,7,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.93002778,73.84183333,2,2,1,1,0.5,0.5,7,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.93005556,73.84183333,4,7,3,10.5,0.5,5.25,6,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92997222,73.84427778,4,7,2,7,1,7,6,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92775,73.84258333,3,4,2,4,1,4,2,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92730556,73.84230556,4,6,3,9,0.5,4.5,5,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92636111,73.84136111,6,6,5,15,3,45,10,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92605556,73.84105556,7,2,6,6,1,6,2,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92591667,73.84083333,9,13,7,45.5,2,91,3,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92544444,73.8405,9,15,7,52.5,2,105,2,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92530556,73.84027778,7,12,5,30,3,90,3,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92375,73.83772222,6,15,4,30,2,60,3,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.92341667,73.83705556,4,8,3,12,0.5,6,3,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,"Sparse vegetation, minor slope modification",Dry,Rainfall,Low
+17.92325,73.83658333,5,15,4,30,1,30,2,Debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,"Sparse vegetation, minor slope modification",Dry,Rainfall,Low
+17.92177778,73.83377778,4,5,3,7.5,0.5,3.75,2,Debris,Fall,Rapid,Active,Enlarging,Single,Fall,Lowly Dissected Slope,"Sparse vegetation, minor slope modification",Dry,Rainfall,Low
+17.92258333,73.83863889,5,13,4,26,0.5,13,9,Debris,Fall,Rapid,Active,Enlarging,Single,Fall,Lowly Dissected Slope,"Sparse vegetation, minor slope modification",Dry,Rainfall,Low
+17.94513889,73.82661111,20,10,5,25,3,75,0,Debris,Slide,Rapid,Dormant,Enlarging,Single,Shallow Rotational,Lowly Dissected Slope,"Sparse vegetation, minor slope modification",Dry,Rainfall,Low
+17.94569167,73.82647222,10,8,5,20,2,40,0,Debris,Slide,Rapid,Dormant,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,"Sparse vegetation, minor slope modification",Dry,Rainfall,Low
+17.93027778,73.8275,26,55,15,412.5,2,825,15,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Rotational,Lowly Dissected Slope,"Sparse vegetation, minor slope modification",Dry,Rainfall,Low
+17.93069444,73.82766667,8,12,5,30,2,60,10,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Translational,Lowly Dissected Slope,"Sparse vegetation, minor slope modification",Dry,Rainfall,Low
+17.9295,73.82622222,60,30,25,375,5,1875,30,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Rotational,Lowly Dissected Slope,"Sparse vegetation, minor slope modification",Dry,Rainfall,Low
+17.92925,73.82486111,8,25,5,62.5,1,62.5,15,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,"Sparse vegetation, minor slope modification",Dry,Rainfall,Low
+17.92377778,73.8215,7,40,3,60,1,60,5,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,"Sparse vegetation, minor slope modification",Dry,Rainfall,Low
+17.92433333,73.83579722,40,15,6,45,2,90,5,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Moderate
+17.9351,73.8317,20,90,10,450,1,450,4.7,Debris,Fall,Rapid,Suspended,Enlarging,Single,Fall,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.9362,73.8247,20,25,15,187.5,1,187.5,2.9,Debris,Fall,Rapid,Suspended,Enlarging,Single,Fall,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Rainfall,Low
+17.9261,73.8412,7,10,6,30,1,30,5,Debris,Slide,Rapid,Active,Retrogressive,Single,Shallow Planar,Lowly Dissected Slope,Cultivation & fallow Land,Dry,Rainfall,Moderate
+16.354,74.208,10,97,6,312,0.68,285.6,2,Debris,Slide,Rapid,Active,Enlarging,Multiple,Shallow Planar,Lowly Dissected Slope,"Extensive slope cut, road and cultivation",Wet,Heavy Rainfall,Low
+74.206,16.353,11,45,7,127.2,2.22,409,3,Debris,Slide,Rapid,Active,Enlarging,Multiple,Shallow Planar,Lowly Dissected Slope,"Extensive slope cut, road and cultivation",Wet,Heavy Rainfall,Low
+16.353,74.205,12,35,7,132.2,0.92,137.2,3.8,Debris,Slide,Rapid,Active,Retrogressive,Multiple,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Heavy Rainfall,Low
+16.329,74.229,20,70,7.5,194,1.6,357,14,In-situ soil (with embedded boulders of basalt),Slide,Rapid,Suspended,Confined,Single,Shallow Planar,Lowly Dissected Slope,"Extensive slope cut, road and high heighted plantation (Teak)",Dry,Heavy Rainfall,Low
+16.258,74.226,10,25,5,115,2.1,227.6,2,Debris,Slide,Rapid,Active,Retrogressive,Multiple,Shallow Planar,Lowly Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Heavy Rainfall,Low
+16.258,74.226,12,25,5,110,1.8,190.2,1,Rock,Slide,Rapid,Active,Retrogressive,Single,Shallow Planar,Lowly Dissected Slope,Road and high heighted plantation,Dry,Heavy Rainfall,Low
+16.306,74.169,9,28,6,83,2.36,197.8,2,Debris,Slide,Rapid,Active,Enlarging,Multiple,Shallow Planar,Moderately Dissected Slope,"Extensive slope cut, road and barren",Dry,Heavy Rainfall,Low
+16.307,74.167,8,55,6.5,156.4,1.02,148.54,3.8,Debris,Slide,Rapid,Active,Retrogressive,Multiple,Shallow Planar,Moderately Dissected Slope,Road and sparse vegetation,Dry,Heavy Rainfall,Low
+16.305,74.169,9,28,5,83.4,1.96,148.2,1,Debris,Slide,Rapid,Active,Retrogressive,Multiple,Shallow Planar,Moderately Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Heavy Rainfall,Low
+15.863,74.264,6,80,4,110.1186,0.42,36.9118,2,Debris,Slide,Rapid,Active,Enlarging,Multiple,Shallow Planar,Foot slope,"Extensive slope cut, surrounded by moderate vegetation and transportation road",Dry,Heavy Rainfall,Low
+15.857,74.25,10,40,8,123,0.72,124.2,3,Debris,Slide,Rapid,Active,Enlarging,Multiple,Shallow Planar,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Heavy Rainfall,Low
+16.598,74.41,10,32,6,86.2,1.12,87.9,5,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Heavy Rainfall,Low
+16.745,73.334,6,12,5.5,30.4,0.92,28,3,Debris,Slide,Rapid,Active,Retrogressive,Single,Shallow Planar,Piedmont slope,Extensive slope cut road and Sparse vegetation,Dry,Heavy Rainfall,Low
+18.426169,73.107189,8,4,6,12.3,0.58,6.85,3.4,Rock-cum-debris,Slide,Rapid,Active,Retrogressive,Single,Shallow Planar,Highly Dissected slope,"Moderate to sparse vegetation, modified slopes due to cutting by anthropogenic activities and transportation road",Dry,"Heavy Rainfall, anthropogenic factors",High
+18.3877,73.080811,25,40,20,320.4,3,369.6,30,Debris,Subsidence,Slow,Active,Widening,Single,Rotational failure,Moderately Dissected Slope,"Moderate to sparse vegetation, extensive slope cutting and communication road",Moist,Heavy Rainfall,Moderate to High
+18.336939,73.021661,8,10,6,32.2,0.76,30.8,2,Rock,Fall,Very rapid,Suspended,Retrogressive,Single,Planar/ Wedge/Toppling,Moderately Dissected Slope,"Extensive slope cutting was made for widening of Mumbai-Goa highway, thus making the overburden material unstable",Moist,"Heavy Rainfall, anthropogenic factors",Low to Moderate
+18.310272,73.041631,70,15,25,680,3.7,3015,20,Debris,Flow,Moderate,Active,Widening,Single,Shallow Translational,Piedmont slope,Extensive slope cut road and Sparse vegetation,Dry,Heavy Rainfall,Moderate
+18.282019,73.088911,9,30,6,81.2,1.6,112.7,7,Debris,Fall,Moderate,Suspended,Diminishing,Multiple,Fall,Moderately Dissected Slope,"Sparse to moderate vegetation, communication road and extensive slope cut",Moist,"Heavy Rainfall, anthropogenic factors",Moderate
+18.387489,73.388431,6,5,4,11,0.9,9.2,2.7,Rock,Fall,Moderate,Active,Confined,Single,Wedge,Highly Dissected slope,Extensive slope cut road and Sparse vegetation,Wet,"Heavy Rainfall, anthropogenic factors",Moderate
+18.474819,73.193831,13,6,11,38.6,1.08,41,10.5,Rock-cum-debris,Slide,Rapid,Active,Retrogressive,Multiple,Shallow Planar,Lowly Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,"Rainfall, anthropogenic factors",Moderate
+18.267161,73.96425,5,70,4,166.9186,0.42,96.5118,5.4,Rock-cum-debris,Fall,Rapid,Active,Retrogressive,Multiple,Wedge,Piedmont slope,Sparse vegetation and communication road,Dry,"Rainfall, anthropogenic factors",Moderate
+18.269911,73.949539,20,50,13,268.5,1.7,558.6,12.8,Rock-cum-debris,Slide,Moderate,Dormant,Enlarging,Multiple,Shallow Planar,Piedmont slope,"Extensive slope cut, sparse to Moderate vegetation, Extensive slope cut road",Dry,Heavy Rainfall,Low to Moderate
+18.3163,73.358261,15,8,12,60.2,1.1,67.6,3,Rock,Fall,Rapid,Active,Retrogressive/Widening,Single,Shallow Planar/ Wedge,Moderately Dissected Slope,Extensive slope cut and spars to moderate vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Moderate
+18.313189,73.368131,9,15,8,66.2,1.28,79,2,Debris,Fall,Rapid,Suspended,Enlarging,Single,Wedge,Highly Dissected slope,"This area comes under moderate vegetation, slope cuts and road",Moist,Heavy Rainfall,Low to Moderate
+18.313311,73.365483,40,40,30,440.6,2.86,1474.8,40,Debris,Slide,Rapid,Suspended,Retrogressive,Single,Shallow Planar,Moderately Dissected Slope,"Moderate vegetation, Extensive slope cut road",Dry,Heavy Rainfall,Moderate to High
+18.494819,73.962872,10,4,6,20,1.3,26.6,5.6,Debris,Slide,Rapid,Active,Retrogressive,Single,Shallow Planar,Highly Dissected slope,"Moderate vegetation, Extensive slope cut road",Wet,"Heavy Rainfall, anthropogenic factors",Low to Moderate
+18.475,73.193944,8,10,7,34.7,1.4,46.7,3.6,Debris,Slide,Rapid,Suspended,Retrogressive,Single,Shallow Translational,Piedmont slope,"Moderate vegetation, Extensive slope cut road",Moist,Incessant rainfall,Moderate
+18.385222,73.078444,15,10,12,79.6,1.7,105.2,7.2,Rock-cum-debris,Slide,Rapid,Active,Retrogressive,Single,Shallow Translational,Lowly Dissected Slope,Sparse to moderate to vegetation,Wet,"Extensive Rainfall, anthropogenic factors",Low
+18.385222,73.388889,10,14,8,66.2,1.28,79,2,Rock,Fall,Rapid,Dormant,Diminishing,Single,Wedge,Highly Dissected slope,Moderate Vegetation,Moist,Rainfall,Low
+18.466944,73.412,30,10,22,142.8,0.88,129,54.2,Debris,Flow,Rapid,Active,Retrogressive,Single,Flow,Moderately Dissected Slope,"Moderate vegetation, Extensive slope cut road",Wet,Heavy Rainfall,Low
+18.29,73.041,30,50,20,465.9,2.06,1119.8,23.3,Debris,Slide,Moderate,Dormant,Enlarging,Single,Shallow Translational,Highly Dissected slope,"Sparse to Moderate vegetation, Extensive slope cut road",Wet,Heavy Rainfall,Low
+18.474333,73.068,25,50,20,465.9,2.06,1119.8,23.3,Rock-cum-debris,Slide,Rapid,Dormant,Diminishing,Single,Shallow Translational,Moderately Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,Heavy Rainfall,Low
+18.474333,73.071,15,25,12,167.7,1.64,269.5,4.2,Rock-cum-debris,Slide,Rapid,Dormant,Diminishing,Single,Shallow Translational,Piedmont slope,Extensive slope cut road and Sparse vegetation,Dry,"Rainfall, anthropogenic factors",Low
+18.399,73.384,10,30,8,83.8,1.2,94.3,4.9,Debris,Fall,Rapid,Dormant,Diminishing,Single,Shallow Planar,Highly Dissected slope,Extensive slope cut road and Sparse vegetation,Wet,"Rainfall, anthropogenic factors",Low to Moderate
+18.464,73.412,7,5,5,13.1,0.82,10.65,5.8,Debris,Fall,Rapid,Dormant,Diminishing,Single,Shallow Planar,Piedmont slope,"Moderate vegetation, Extensive slope cut road",Dry,Heavy Rainfall,Low
+18.272889,73.031,25,30,20,327.5,2.1,760.1,10.5,Debris,Slide,Rapid,Active,Retrogressive,Single,Shallow Translational,Moderately Dissected Slope,"Moderate vegetation, Extensive slope cut road",Moist,"Rainfall, anthropogenic factors",Low
+18.272889,73.035,12,35,7,132.2,0.92,137.2,3.8,Debris,Slide,Rapid,Active,Retrogressive,Single,Shallow Translational,Highly Dissected slope,"Moderate vegetation, Extensive slope cut road",Dry,"Rainfall, anthropogenic factors",Low
+18.274,73.038,25,70,20,244.7,2.2,490.2,9.9,Debris,Slide,Rapid,Dormant,Enlarging,Single,Shallow Translational,Moderately Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,"Rainfall, anthropogenic factors",Low
+18.278,73.04,25,100,20,371.2076,1.54,350.3216,4.9,Debris,Slide,Rapid,Dormant,Enlarging,Single,Shallow Translational,Moderately Dissected Slope,"Barren slope, ectensive slope cut and communication road",Dry,"Rainfall, anthropogenic factors",Low
+18.307,73.056,25,70,20,213.9,2.2,459.4,9.9,Debris,Slide,Rapid,Dormant,Retrogressive,Single,Shallow Translational,Moderately Dissected Slope,"Barren slope, extensive slope cut and road",Dry,"Rainfall, anthropogenic factors",Low
+18.295,73.036,25,30,20,327.5,2.1,760.1,10.5,Debris,Slide,Rapid,Dormant,Diminishing,Single,Shallow Translational,Moderately Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.313,73.074,10,10,7,46.1,0.72,54.5,36.8,Debris,Slide,Rapid,Dormant,Diminishing,Single,Shallow Translational,Moderately Dissected Slope,"Moderate vegetation, slope cuts and road",Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.384,73.388889,12,7,10,35,1.28,48.8,11.2,Rock,Fall,Rapid,Dormant,Diminishing,Single,Planar/Wedge,Moderately Dissected Slope,Extensive slope cut road and Sparse vegetation,Dry,"Rainfall, anthropogenic factors",Low
+18.395,73.382,8,7,7,24.4,0.42,14.4,4.8,Rock,Fall,Rapid,Dormant,Diminishing,Single,Planar/Wedge,Moderately Dissected Slope,Settlement and slope cuts,Dry,"Rainfall, anthropogenic factors",Low
+18.46,73.41,20,15,15,103.2,1.8,208.3,12.4,Debris,Slide,Rapid,Dormant,Diminishing,Single,Shallow Translational,Moderately Dissected Slope,Extensive Slope Cut in Forest area,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.464,73.412,18,25,15,207.7,1.9,379.5,3.9,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Translational,Moderately Dissected Slope,Extensive Slope Cut in Forest area,Wet,"Heavy Rainfall, anthropogenic factors",Low
+18.466,73.412,30,15,25,219.2,1.9,411.2,39,Debris,Slide,Rapid,Dormant,Diminishing,Single,Shallow Translational,Moderately Dissected Slope,Extensive Slope Cut in Forest area,Dry,"Rainfall, anthropogenic factors",Low
+18.384,73.235,20,20.6,15,147.5,0.98,191.3,9.6,Debris,Slide and flow,Moderate,Active,Enlarging,Multiple,Shallow Translational,Lowly Dissected Slope,Extensive Slope Cut in Forest area,Moist,"Rainfall, anthropogenic factors",Moderate
+18.317,73.77225,15,62,13,159,1,159,4.5,Rock,Fall,Rapid,Active,Retrogressive,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope Cut in Forest area,Dry,Anthropogenic factors,Low
+18.308139,73.774444,5,14,4,30,1,30,3.4,Rock,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope Cut in Forest area,Dry,Anthropogenic factors,Low
+18.308139,73.774,5,6,5,14,2,21,5.4,Rock,Fall,Rapid,Active,Enlarging,Single,Wedge,Moderately Dissected Slope,Extensive Slope Cut in Forest area,Dry,Anthropogenic factors,Low
+18.313889,73.774541,12,30,4,62,1,31,3.4,Rock,Fall,Moderate,Active,Enlarging,Multiple,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope Cut in Forest area,Dry,Anthropogenic factors,Low
+18.311667,73.775659,8,11,8,42,2,83,3.6,Rock,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope Cut in Forest area,Dry,Anthropogenic factors,Low
+18.311944,73.775407,15,1011,13,6695,1,6695,47.4,Rock,Slide,Rapid,Active,Enlarging,Multiple,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope Cut in Forest area,Dry,Anthropogenic factors,Low
+18.310139,73.777382,10,64,10,313,1,313,4.4,Rock,Fall,Rapid,Active and Dormant,Widening,Multiple,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope Cut in Forest area,Dry,Anthropogenic factors,Low
+18.316944,73.772191,4,7,4,12,0,1,2.4,Rock,Fall,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope Cut in Forest area,Dry,Anthropogenic factors,Low
+18.319667,73.766662,8,13,6,37,0,4,5,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope Cut in Forest area,Dry,Anthropogenic factors,Low
+18.310083,73.76491,13,12,9,55,0,6,9,Rock,Fall,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope Cut in Forest area,Dry,Anthropogenic factors,Low
+18.292,73.560672,16,60,8,58,1,29,4.6,Rock,Slide,Moderate,Active,Widening,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope Cut in Forest area,Damp,"Rainfall, anthropogenic factors",Low
+18.287056,73.551383,25,45,9,192,0,19,8.8,Rock,Slide,Rapid,Suspended,Enlarging,Multiple,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope Cut in Forest area,Damp,Anthropogenic factors,Low
+18.293056,73.507553,15,20,5,51,0,5,7,Debris,Slide,Moderate,Active,Enlarging,Multiple,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope Cut in Forest area,Dripping,Anthropogenic factors,Low
+18.310861,73.504959,6,80,4,29,1,15,4.5,Rock,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope Cut in Forest area,Damp,Anthropogenic factors,Low
+18.404889,73.519532,30,37,10,190,3,569,9.3,Debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar/Translational,Lowly Dissected Slope,Extensive Slope Cut in Forest area,Damp,Anthropogenic factors,Low
+18.303194,73.556203,18,12,9,13,2,26,25,Rock-cum-debris,Slide,Rapid,Active,Widening,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope Cut in Forest area,Flowing,"Rainfall, anthropogenic factors",Low
+18.303333,73.591936,8,8,3,11,0,1,2.4,Debris,Slide,Rapid,Active,Retrogressive,Single,Shallow Planar/Translational,Lowly Dissected Slope,Extensive Slope Cut in Forest area,Dry,Anthropogenic factors,Low
+18.302556,73.593653,13,7,7,23,0,7,3.2,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Lowly Dissected Slope,Extensive Slope Cut in Forest area,Damp,Anthropogenic factors,Low
+18.301667,73.592011,7,28,4,49,3,123,2.8,Debris,Slide,Rapid,Active,Enlarging,Single,Deep Planar/Translational,Lowly Dissected Slope,Extensive Slope Cut in Forest area,Wet,Anthropogenic factors,Low
+18.296056,73.589932,3,35,1,18,0,2,3.4,Debris,Slide,Rapid,Active,Enlarging,Multiple,Shallow Planar/Translational,Lowly Dissected Slope,Extensive Slope Cut in Forest area,Damp,Anthropogenic factors,Low
+18.312139,73.589856,4,35,2,35,1,35,3.5,Debris,Slide,Rapid,Active,Enlarging,Multiple,Shallow Planar/Translational,Lowly Dissected Slope,Extensive Slope Cut in Forest area,Damp,"Rainfall, anthropogenic factors",Low
+18.297361,73.59264,3,6,1.5,4.5,4,18,5,Debris,Slide,Rapid,Active,Retrogressive,Single,Shallow Planar/Translational,Lowly Dissected Slope,Moderate Vegetation in Forest area,Damp,Anthropogenic factors,Low
+18.301,73.592813,7,10,3.5,17.5,0.2,3.5,3.6,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Lowly Dissected Slope,Sparse Vegetation on hill slope,Damp,Anthropogenic factors,Low
+18.301028,73.5933,3.5,5,1,3,0.5,1,3.2,Rock,Slide,Rapid,Active,Retrogressive,Single,Shallow Planar/Translational,Lowly Dissected Slope,Extensive Slope cut in Abandoned Quarry,Damp,Anthropogenic factors,Low
+18.298361,73.625731,18,11,2,12,3,36,6.2,Rock-cum-debris,Slide,Moderate,Active,Widening,Single,Shallow Planar/Translational,Lowly Dissected Slope,Extensive Slope cut in Abandoned Quarry,Dry,"Rainfall, anthropogenic factors",Low
+18.299361,73.511372,3,11,2,8,0.5,4,20,Debris,Flow,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut in Abandoned Quarry,Damp,Rainfall,Low
+18.297083,73.638042,2,5,1,2,0.1,0,2.4,Rock,Slide,Moderate,Active,Retrogressive,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut in Abandoned Quarry,Damp,"Rainfall, anthropogenic factors",Low
+18.297056,73.638614,3,12,1,6,0.2,1,6,Rock,Slide,Rapid,Active,Retrogressive,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut in Abandoned Quarry,Dry,"Rainfall, anthropogenic factors",Low
+18.297361,73.640365,3.5,5.5,1,3,0.1,0,3.2,Debris,Slide,Rapid,Reactivated,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut in Abandoned Quarry,Dry,"Rainfall, anthropogenic factors",Low
+18.292,73.647012,4,6.5,1,4,0.5,2,3.6,Rock-cum-debris,Slide,Moderate,Dormant,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut in Abandoned Quarry,Dry,"Rainfall, anthropogenic factors",Low
+18.297028,73.65279,4.5,13,2,15,0.1,1,0.5,Rock,Slide,Rapid,Active,Widening,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut in Abandoned Quarry,Dry,"Rainfall, anthropogenic factors",Low
+18.302778,73.708046,3,5,0,1,0.5,0,2.4,Debris,Slide,Moderate,Active,Retrogressive,Single,Shallow Planar/Translational,Lowly Dissected Slope,Extensive Slope cut in Abandoned Quarry,Dry,"Rainfall, anthropogenic factors",Low
+18.302778,73.708475,3,4,1,3,0.1,0,3,Rock,Slide,Moderate,Active,Widening,Single,Shallow Planar/Translational,Lowly Dissected Slope,Extensive Slope cut in Abandoned Quarry,Dry,"Rainfall, anthropogenic factors",Low
+18.303889,73.708795,5,11,2,23,1.5,35,2,Rock,Fall,Very rapid,Active,Widening,Single,Shallow Planar/Translational,Lowly Dissected Slope,Sparse Vegetation on hill slope,Dry,"Rainfall, anthropogenic factors",Low
+18.302611,73.519028,6,24,2,25,0.5,12,1.9,Rock,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.301694,73.525267,4,26,3.1,6,1,6,1.4,Debris,Slide,Slow,Active,Enlarging,Multiple,Shallow Rotational/Shallow translational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.317028,73.527583,5,12,2,10,0.2,2,7.6,Rock-cum-debris,Slide,Moderate,Suspended,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.330861,73.535304,11,12,6,33,0.1,3,15,Rock-cum-debris,Slide,Rapid,Active,Retrogressive,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.302083,73.635,2,3.5,1,1,0.1,0,1.5,Rock,Slide,Rapid,Active,Widening,Single,Shallow Planar/Translational,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.325139,73.631932,3,4,1.3,3,0.1,0.3,1,Rock-cum-debris,Slide,Moderate,Active,Retrogressive,Single,Shallow Planar/Translational,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.31,73.63154,7,14,4,25,2,49,2.3,Debris,Slide,Slow,Suspended,Retrogressive,Single,Shallow Planar/Translational,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.32,73.631522,3,5,2,4,0.1,0,2.5,Rock-cum-debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.320889,73.630916,6,70,0.731,25.593,0.1,2.559,2,Rock,Fall,Rapid,Active,Enlarging,Multiple,Shallow Planar/Translational,Bench,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.297194,73.527694,2.5,25,0.305,3.808,0.5,1.904,0.5,Debris,Slide,Rapid,Active,Retrogressive,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.275556,73.538713,6,39,0.731,14.259,0.5,7.129,4,Debris,Slide,Rapid,Reactivated,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.295,73.536431,6,25,2.052,25.652,0.5,12.826,3,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.312861,73.537978,15,85,5.13,218.038,0.2,43.608,4.7,Rock-cum-debris,Slide,Moderate,Suspended,Confined,Multiple,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.312,73.539949,3,36,0.366,6.581,0.1,0.658,3.1,Rock-cum-debris,Slide,Moderate,Dormant,Confined,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.312,73.530617,8,15,2.736,20.521,1.5,30.782,2.7,Debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.314389,73.529908,4,23,1.368,15.733,0.1,1.573,2,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Hill Top,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.314,73.528962,7,30,3.5,52.5,0.5,26.25,4,Rock-cum-debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.313111,73.527972,6,15,3,23,0.5,11,4.5,Rock,Fall,Rapid,Active,Confined,Multiple,Shallow Planar/Translational,Ridge Top,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.313361,73.515947,6,35,2,36,0.1,4,2,Debris,Slide,Moderate,Active,Widening,Single,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.292889,73.511886,4,6,4,11.2,1,11.2,4,Rock-cum-debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.3175,73.512242,3,5,2,4,0.3,1,3.7,Debris,Fall,Rapid,Active,Retrogressive,Single,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.3175,73.509923,15,75,8,281,4,1125,15,Rock-cum-debris,Slide,Rapid,Stabilized,Enlarging,Single,Shallow Planar,Highly Dissected slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.317944,73.510414,4,5,2,5,0.1,0.5,7,Rock-cum-debris,Slide,Rapid,Suspended,Enlarging,Single,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.317444,73.626854,2,15,1,5,0.1,1,2,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Rotational,Moderately Dissected Slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.316972,73.615944,2.5,21,2,20,0.1,2,1.6,Rock-cum-debris,Slide,Rapid,Reactivated,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.306333,73.612523,3,12,2,13,0.1,1,6.9,Rock,Slide,Moderate,Reactivated,Retrogressive,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.310139,73.603298,4,30,3,47,0.1,5,2.9,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.313806,73.64931,7,11,5,28,0.1,3,2.5,Rock,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.326028,73.506336,6,7,4,13,0.4,5,3.9,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.289028,73.506944,6,16,4,34,1.5,51,1,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.287028,73.510111,6,11,4,24,0.3,7,3.4,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Moderate Vegetation on slope,Dry,Anthropogenic factors,Low
+18.287028,73.514029,5,9,4,17,0.5,9,2.8,Rock-cum-debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope cut,Damp,Anthropogenic factors,Low
+18.287028,73.536916,5,20,4,41,0.4,17,4,Rock-cum-debris,Slide,Moderate,Dormant,Confined,Multiple,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Damp,Rainfall,Low
+18.287944,73.561388,6,45,5,114,3,343,3.5,Rock-cum-debris,Slide,Moderate,Reactivated,Retrogressive,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.287028,73.584207,2.5,12,1,5,0.1,1,0.5,Debris,Slide,Moderate,Active,Retrogressive,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.287056,73.580305,7,45,4,90,3,271,5,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Rotational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.286167,73.579568,3,58,1,41,2,82,4,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Rotational,Moderately Dissected Slope,Extensive Slope cut,Damp,"Rainfall, anthropogenic factors",Low
+18.287778,73.575861,7,125,4,225,0.5,113,5,Rock,Slide,Rapid,Active,Enlarging,Multiple,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.270083,73.570844,5,24,4,49,1,49,2,Rock-cum-debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.27,73.569694,4,12,3,17,0.1,2,5,Rock-cum-debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.286944,73.569002,5,22,4,40,0.3,12,3,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Moderate Vegetation on slope,Damp,"Rainfall, anthropogenic factors",Low
+18.283889,73.568744,6,11,4,24,0.5,12,2.5,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Moderate Vegetation on slope,Dry,"Rainfall, anthropogenic factors",Low
+18.303444,73.561213,6,138,4,298,0.3,89,1,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Multiple,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Damp,"Rainfall, anthropogenic factors",Low
+18.274028,73.558528,6,25,5,57,1.5,85,2.1,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Rotational,Moderately Dissected Slope,Extensive Slope cut,Damp,"Rainfall, anthropogenic factors",Low
+18.274111,73.695584,7,5,5,12,0.1,1,3,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.293028,73.695218,20,7,10,35,2,70,10,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.293444,73.69373,7,13,5,30,0.7,21,2,Rock-cum-debris,Slide,Moderate,Active,Widening,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.294139,73.693629,7,12,5,30,0.2,6,1.5,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Moderate Vegetation,Dry,Anthropogenic factors,Low
+18.294722,73.693532,8,35,6,97,0.1,10,4,Rock-cum-debris,Slide,Very slow,Suspended,Widening,Single,Shallow Planar/Translational,Moderately Dissected Slope,Moderate Vegetation,Dry,"Rainfall, anthropogenic factors",Low
+18.307778,73.516604,7,14,5,33,0.2,7,6,Rock-cum-debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.308333,73.546294,6,6,4,13,0.3,4,1.5,Rock-cum-debris,Slide,Rapid,Active,Enlarging,Multiple,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Damp,"Rainfall, anthropogenic factors",Low
+18.307028,73.66294,5,34,3,52,0.1,5,3.2,Soil,Subsidence,Very slow,Active,Confined,Single,Shallow Rotational,Lowly Dissected Slope,Extensive Slope cut,Damp,Rainfall,Low
+18.292028,73.674863,4,30,2,36,0.5,18,3.3,Soil,Subsidence,Very slow,Active,Enlarging,Single,Shallow Rotational,Moderately Dissected Slope,Extensive Slope cut,Damp,Rainfall,Low
+18.298833,73.57938,4.5,29,3,42,0.8,34,2.5,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.299028,73.591111,5,13,3,19,0.5,9,1,Rock-cum-debris,Slide,Moderate,Dormant,Confined,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.312028,73.593047,4.5,6,3,10,0.1,1,1.5,Rock,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.312222,73.571806,5,100,3,164,0.4,66,2,Rock-cum-debris,Slide,Very rapid,Active and Dormant,Enlarging,Multiple,Shallow Planar/Translational,Lowly Dissected Slope,Sparse Vegetation on slope,Dry,"Rainfall, anthropogenic factors",Low
+18.313611,73.504483,4,57,2,57,0.1,5.7,4,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Multiple,Shallow Planar/Translational,Moderately Dissected Slope,Thick Vegetation on slope,Damp,"Rainfall, anthropogenic factors",Low
+18.313944,73.558247,2.5,6.5,1,2,0.4,1,2.5,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Sparse Vegetation on slope,Dry,"Rainfall, anthropogenic factors",Low
+18.313611,73.61438,4.5,32,3,55,0.2,11,1,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Multiple,Shallow Planar/Translational,Moderately Dissected Slope,Barren area,Dry,"Rainfall, anthropogenic factors",Low
+18.311417,73.546333,9,18,5,41,0.5,20,13,Rock-cum-debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.312889,73.502917,6,5,3,9,0.2,2,2.9,Rock,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.310889,73.723694,6.5,12,3,17,0.1,2,2.9,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.297944,73.536563,3.5,21,2,21,0.5,10,1.5,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.297944,73.536259,4,6,3,8,0.2,2,7,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Sparse Vegetation on slope,Dry,"Rainfall, anthropogenic factors",Low
+18.298944,73.527476,10,95,5,252,0.8,201,4.7,Rock-cum-debris,Slide,Rapid,Reactivated,Enlarging,Multiple,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.312222,73.530012,6,5,3,8,1.5,12,5,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Ridge Top,Sparse Vegetation on slope,Dry,"Rainfall, anthropogenic factors",Low
+18.312222,73.531751,13,100,9,452,0.2,90,4.7,Rock-cum-debris,Slide,Moderate,Reactivated,Enlarging,Multiple,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.3125,73.561003,5,20,3,31,1,31,2.8,Debris,Slide,Moderate,Dormant,Confined,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.312278,73.551077,10,22,7,75,1.5,113,2.3,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Rotational,Lowly Dissected Slope,Extensive Slope cut in Forest area,Dry,"Rainfall, anthropogenic factors",Low
+18.311944,73.590532,10,147,5,345,1.5,518,2,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Multiple,Shallow Planar/Translational,Lowly Dissected Slope,Extensive Slope cut in Forest area,Dry,"Rainfall, anthropogenic factors",Low
+18.2925,73.599649,12,37,10,177,0.5,89,4.1,Debris,Slide,Moderate,Suspended,Retrogressive,Multiple,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.309667,73.599933,10,25,8,100,0.5,50,2.9,Debris,Slide,Moderate,Active,Enlarging,Single,Shallow Rotational,Moderately Dissected Slope,Extensive Slope cut in Forest area,Dry,"Rainfall, anthropogenic factors",Low
+18.313583,73.77761,4,18,2,18,0.4,7,1.5,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut in Forest area,Dry,"Rainfall, anthropogenic factors",Low
+18.319028,73.791367,5,20,3,29,0.1,3,3,Rock-cum-debris,Slide,Rapid,Active,Enlarging,Multiple,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut in Forest area,Dry,"Rainfall, anthropogenic factors",Low
+18.319028,73.7912,7.5,21,1,10,0.1,1,2,Rock,Fall,Rapid,Active,Confined,Multiple,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope cut in Forest area,Dry,Anthropogenic factors,Low
+18.318833,73.600686,8,45,4,93,0.3,28,3.5,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Multiple,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut in Forest area,Dry,Anthropogenic factors,Low
+18.311944,73.600778,5,30,3,40,0.3,12,3,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Extensive Slope cut in Forest area,Dry,"Rainfall, anthropogenic factors",Low
+18.306583,73.600463,5,7,3,10,0.8,8,4.2,Rock-cum-debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope cut in Forest area,Dry,"Rainfall, anthropogenic factors",Low
+18.318222,73.600536,7,101,4,208,0.5,104,2.9,Debris,Slide,Moderate,Active,Enlarging,Multiple,Shallow Planar/Translational,Highly Dissected slope,Thick Vegetation in Forest area,Dry,"Rainfall, anthropogenic factors",Low
+18.326278,73.591673,5.5,40,3,68,0.8,54,3.6,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Highly Dissected slope,Moderate Vegetation,Dry,"Rainfall, anthropogenic factors",Low
+18.305556,73.59243,4,11,3,14,0.6,9,2,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Lowly Dissected Slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.305,73.595532,5,12,3,18,0.4,7,4,Rock-cum-debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Lowly Dissected Slope,Moderate Vegetation,Dry,"Rainfall, anthropogenic factors",Low
+18.297278,73.602148,4.5,25,3,40,0.2,8,2,Rock-cum-debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Highly Dissected slope,Extensive Slope cut,Dry,"Rainfall, anthropogenic factors",Low
+18.276111,73.561791,5,21,2,22,0.5,11,1.5,Rock-cum-debris,Slide,Rapid,Active,Enlarging,Multiple,Shallow Planar/Translational,Lowly Dissected Slope,Moderate Vegetation,Dry,"Rainfall, anthropogenic factors",Low
+18.276389,73.561721,3.5,7,1,5,0.1,1,3.6,Rock,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Lowly Dissected Slope,Extensive Slope cut,Dry,Anthropogenic factors,Low
+18.2755,73.621015,5.5,24,4,47,0.1,5,2.5,Rock-cum-debris,Slide,Rapid,Active,Enlarging,Multiple,Shallow Planar/Translational,Moderately Dissected Slope,Sparse Vegetation on slope,Dry,"Rainfall, anthropogenic factors",Low
+18.321528,73.620833,4,9,2,9,0.1,0.9,4,Rock-cum-debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Sparse Vegetation on slope,Dry,"Rainfall, anthropogenic factors",Low
+18.317444,73.621111,3.5,7,2,9,0.1,1,3.5,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Single,Shallow Planar/Translational,Highly Dissected slope,Moderate Vegetation,Dry,"Rainfall, anthropogenic factors",Low
+18.3205,73.619564,6,35,4,63,0.2,13,3.4,Rock-cum-debris,Slide,Moderate,Active,Enlarging,Multiple,Shallow Planar/Translational,Highly Dissected slope,Moderate Vegetation,Dry,"Rainfall, anthropogenic factors",Low
+18.326083,73.618944,10,11,8,44,0.2,9,3.2,Rock-cum-debris,Slide,Rapid,Suspended,Confined,Single,Shallow Planar/Translational,Highly Dissected slope,Moderate Vegetation,Dry,"Rainfall, anthropogenic factors",Low
+18.4875,73.618655,3,6,2,6,0.5,3,4,Rock,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Highly Dissected slope,Moderate Vegetation,Dry,Anthropogenic factors,Low
+18.3205,73.619161,4.5,9,3,12,0.2,2,3.2,Rock-cum-debris,Slide,Rapid,Active,Confined,Single,Shallow Planar/Translational,Highly Dissected slope,Moderate Vegetation,Dry,Anthropogenic factors,Low
+18.441944,73.672015,4,31,3,39,0.5,20,3.4,Rock-cum-debris,Slide,Rapid,Active,Enlarging,Multiple,Shallow Planar/Translational,Lowly Dissected Slope,Moderate Vegetation,Dry,"Rainfall, anthropogenic factors",Low
+18.242444,73.672493,4,76,2,87,0.2,17,4.7,Rock,Fall,Rapid,Active,Confined,Multiple,Shallow Planar/Translational,Lowly Dissected Slope,Moderate Vegetation,Dry,Anthropogenic factors,Low
+18.24325,73.676326,4.5,6,3,8,0.1,1,3.1,Rock-cum-debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Highly Dissected slope,Moderate Vegetation,Dry,"Rainfall, anthropogenic factors",Low
+18.248028,73.677944,5,20,3,28,0.1,3,2.1,Rock-cum-debris,Slide,Rapid,Active,Enlarging,Multiple,Shallow Planar/Translational,Highly Dissected slope,Moderate Vegetation,Dry,"Rainfall, anthropogenic factors",Low
+18.244861,73.677532,6,78,4,138,0.5,69,4.7,Rock,Fall,Extremely Rapid,Reactivated,Confined,Multiple,Shallow Planar/Translational,Moderately Dissected Slope,Moderate Vegetation,Dry,Anthropogenic factors,Low
+18.245611,73.807303,6.5,205,3,302,0.8,242,2.1,Rock,Fall,Rapid,Active,Enlarging,Single,Shallow Planar/Translational,Moderately Dissected Slope,Moderate Vegetation,Dry,Anthropogenic factors,Low
+18.2395,73.76055,23,221,14,1565,1,1565,4.7,Rock,Fall,Rapid,Dormant,Confined,Multiple,Shallow Planar/Translational,Plateau Top,Moderate Vegetation,Dry,Anthropogenic factors,Low
+18.247806,73.705263,3.5,374,1,256,0.2,51,1.5,Rock,Fall,Rapid,Reactivated,Confined,Multiple,Shallow Planar/Translational,Lowly Dissected Slope,Moderate Vegetation,Dry,Anthropogenic factors,Low
+18.246944,73.535976,12,778,7,2874,0.2,575,47.4,Rock,Fall,Very rapid,Reactivated,Confined,Multiple,Shallow Planar/Translational,Moderately Dissected Slope,Moderate Vegetation,Dry,Anthropogenic factors,Low
+18.258028,73.291417,7,19,4.5,61.8,0.44,27.2,1.5,Debris,Slide,Rapid,Active,Retrogressive,Single,Shallow Planar,Foot slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.258194,73.288111,10,4,6,24.4,1.2,28,4,Debris,Slide,Rapid,Active,Retrogressive,Single,Shallow Planar,Lowly Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.311028,73.282833,15,5,10,31.8,1.1,37.8,3,Debris,Fall,Rapid,Active,Retrogressive,Single,Shallow Planar,Foot slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.274472,73.450639,11,28,7,84.8,2.1,182.4,2,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.275722,73.451306,15,43,12,238,1.4,374.8,2.5,Debris,Slide,Rapid,Active,Enlarging,Multiple,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.258139,73.453306,11,27,8,125,1.86,266,2.5,Debris,Slide,Rapid,Active,Enlarging,Successive,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.258528,73.46925,12,27,8,125,1.86,266,4,Debris,Slide,Rapid,Active,Enlarging,Multiple,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.260306,73.460833,15,15,12,68.6,0.82,40,7,Debris,Slide,Rapid,Active,Enlarging,Multiple,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.260917,73.441472,13,11,8,60.8,0.76,48.6,7,Debris,Slide,Very rapid,Active,Retrogressive,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.267347,73.457944,14,13,9,72.2,0.58,31.6,6,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.268083,73.403611,13,9,11,61.8,1.7,77.6,5,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Foot slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.267083,73.357611,20,5,17,72.5,1.22,85,6,Debris-cum-rock,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.262556,73.359556,30,15,20,168.2,1.7,250.9,8,Debris,Flow,Very rapid,Active,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.27875,73.375472,15,5,11,42.2,1.22,59,2.5,Debris-cum-rock,Slide,Rapid,Active,Retrogressive,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.279139,73.342667,18,20,15,132.1,2.1,200.6,4,Debris,Slide,Rapid,Active,Enlarging,Multiple,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.332944,73.415528,16,23,13,131.1,2.5,292.1,3,Debris,Fall,Rapid,Active,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.333611,73.350056,24,21,18,221.1,2.3,437.8,5,Rock,Slide,Rapid,Active,Enlarging,Single,Planar/Wedge,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.327778,73.356306,16,20,13,136.7,2.1,228.5,6,Rock,Fall,Rapid,Active,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.329222,73.306806,65,23,55,632.2,5.1,2299.2,115,Debris-cum-rock,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Moderate Vegetation,Dry,Heavy Rainfall,Low
+18.329139,73.323139,18,21,15,132.1,2.3,200.6,2.5,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.327528,73.323056,115,20,100,790,5.7,3245,50,Debris,Slide,Rapid,Dormant,Confined,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,Heavy Rainfall,Low
+18.322028,73.464028,10,11,7,46.7,1.04,69,3,Debris,Slide,Rapid,Active,Widening,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.319,73.287306,45,43,40,591,3.06,2102.6,3,Debris,Slide,Rapid,Active,Enlarging,Multiple,Shallow Planar,Lowly Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.324722,73.305361,10,6,8,29.2,1.16,36.5,2,Rock,Slide,Rapid,Active,Enlarging,Single,Planar/Wedge,Lowly Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.32375,73.305389,15,7,13,60.2,1.1,67.6,2.5,Rock,Slide,Rapid,Active,Enlarging,Single,Planar/Wedge,Lowly Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.323667,73.305667,35,34,31,591,2.36,2102.6,12,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.324722,73.309028,18,22,15,139.7,1.8,201.6,5,Debris-cum-rock,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.306944,73.309722,19,18,15,116.5,2,121,3,Debris,Slide,Rapid,Active,Enlarging,Single,Shallow Planar,Lowly Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.355833,73.309667,15,38,12,210,1.7,436,7,Rock,Slide,Rapid,Active,Enlarging,Multiple,Planar failure,Lowly Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.496944,73.324583,11,25,8,95,1.86,198.6,4,Debris,Slide,Moderate,Reactivated,Retrogressive/Widening,Multiple,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Damp,Heavy Rainfall,Low
+18.430861,73.296694,10,4.5,4,26.2,0.9,24.4,3,Debris,Slide,Moderate to high,Active,Retrogressive/Widening,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,Heavy Rainfall,Low
+18.693028,73.282528,20,20,15,132.1,2.1,200.6,2,Debris,Slide,Moderate,Active,Retrogressive/Widening,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,Heavy Rainfall,Low
+18.693028,73.282611,20,30,15,267.1,1.9,715.7,2,Debris,Slide,Moderate,Active,Retrogressive/Widening,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,Heavy Rainfall,Low
+18.698694,73.290583,55,60,40,738.5,3.46,3235,4.5,Debris,Slide,Moderate,Suspended,Retrogressive/Widening,Multiple,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.673611,73.291861,18,50,13,192,1.4,367.6,1.5,Debris,Slide,Moderate,Suspended,Retrogressive/Widening,Multiple,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.673861,73.252972,6,22,4,47.4,0.58,27.4,1.5,Debris,Slide,Slow,Active,Retrogressive/Widening,Single,Shallow Planar,Lowly Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.674722,73.391917,50,50,40,580.2,2.9,2323,100,Debris,Slide,Very rapid,Active,Retrogressive,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Wet,"Heavy Rainfall, anthropogenic factors",Low
+18.673472,73.420806,7,45,5,115.6,2.06,220.6,2,Debris,Slide,Moderate,Active,Retrogressive/Widening,Single,Shallow Planar,Lowly Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.716389,73.543806,60,47,48,580.2,5.3,2323,100,Debris,Slide,Rapid,Active,Retrogressive/Widening,Single,Shallow Planar,Lowly Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.699611,73.580333,10,40,9,123,0.72,124.2,3,Rock,Fall,Rapid,Active,Retrogressive/Widening,Single,Planar/Wedge,Lowly Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.697472,73.61425,7,30,7,85.7,0.96,91.95,5.2,Rock,Fall,Rapid,Active,Widening,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.7325,73.614722,45,31,35,557.6,4.4,2825,50,Debris,Slide,Moderate,Active,Advancing/Retrogressive,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.575694,73.619722,22,14,10,86.6,1.9,115.3,13,Debris,Slide,Moderate,Active,Retrogressive/Widening,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.57425,73.652167,25,25,20,260.1,2.1,595.1,12.5,Soil,Slump,Moderate to slow,Active,Retrogressive/Widening,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.526806,73.6875,86,56,50,640.2,4.9,2248.6,250,Debris,Slide and flow,Rapid,Active,Retrogressive/Widening,Multiple,Deep Rotational,Lowly Dissected Slope,Moderate Vegetation,Dry,Rainfall,Low
+18.748083,73.702917,25,22,17,206.1,2.6,407.6,5.9,Soil,Slump,Moderate to slow,Active,Retrogressive/Widening,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.836611,73.676556,35,50,20,465.9,2.06,1119.8,31,Soil,Slump,Moderate to slow,Active,Retrogressive,Multiple,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.763778,73.6765,18,80,15,318.4076,1.44,548.9216,2.5,Debris,Slide,Moderate,Active,Retrogressive/Widening,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.767917,73.676472,25,25,20,312.1,2.7,939.2,2.5,Debris,Slide,Moderate,Suspended,Retrogressive/Widening,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.942861,73.636556,20,13,15,93,1.32,66.9,12.4,Soil,Slump,Moderate,Active,Retrogressive/Widening,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,"Heavy Rainfall, anthropogenic factors",Low
+18.967083,73.607139,6,6,3,12.6,0.56,6.4,2.8,Rock,Fall,Very rapid,Active,Retrogressive/Widening,Multiple,Fall,Escarpment,Moderate Vegetation,Dry,Heavy Rainfall,Low
+18.966944,73.615028,15,15,12,83.2,1.36,98.8,4,Debris,Slide,Moderate,Stabilized,Enlarging,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,Heavy Rainfall,Low
+18.942028,73.626083,15,25,10,142.6,2.4,372.6,2,Debris,Slide,Moderate,Suspended,Retrogressive/Widening,Multiple,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,Heavy Rainfall,Low
+19.003528,73.627083,13,10,10,71.6,0.82,78.2,2,Debris,Fall,Moderate,Reactivated,Retrogressive/Widening,Single,Planar failure,Moderately Dissected Slope,Moderate Vegetation,Dry,Heavy Rainfall,Low
+19.003528,73.636111,15,10,11,45.8,0.82,17.2,25,Debris,Slide,Moderate,Active,Retrogressive/Widening,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,Heavy Rainfall,Low
+19.003639,73.661,18,25,15,207.7,1.9,379.5,3.9,Debris,Slide,Moderate,Active,Retrogressive/Widening,Single,Shallow Planar,Moderately Dissected Slope,Moderate Vegetation,Dry,Heavy Rainfall,Low
+19.003889,73.855,10,20,6,77.2,1.2,101.6,5.7,Rock,Fall,Rapid,Active,Widening,Multiple,Planar/Wedge,Lowly Dissected Slope,Moderate Vegetation,Dry,Anthropogenic factors,Low
+19.009389,73.823,17,20,12,81.9,1.2,74.5,25,Debris,Flow,Rapid,Active,Confined,Single,Flow,Lowly Dissected Slope,Moderate Vegetation,Wet,Anthropogenic factors,Low
+19.011278,73.8,12,20,3.5,88.6,0.8,79.4,3,Debris,Flow,Moderate,Active,Confined,Multiple,Flow,Lowly Dissected Slope,Moderate Vegetation,Dry,Heavy Rainfall,Low
+19.010389,73.85,23,11,8,56.6,2.3,127.2,9.6,Rock,Slide,Rapid,Active,Widening,Multiple,Planar/Wedge,Lowly Dissected Slope,Moderate Vegetation,Dry,Rainfall,Low
+18.026944,73.732,10,22,8,92.6,1.94,181,5.2,Rock,Fall,Rapid,Active,Widening,Single,Fall,Lowly Dissected Slope,Moderate Vegetation,Dry,Anthropogenic factors,Low
+18.08275,73.865,6,16,4,29.8,1.12,34.2,3.2,Rock,Fall,Rapid,Active,Widening,Multiple,Wedge,Lowly Dissected Slope,Moderate Vegetation,Dry,Anthropogenic factors,Low
+18.087222,73.699,8,30,6,85.7,0.96,91.95,5.2,Rock,Fall,Rapid,Active,Widening,Single,Fall,Lowly Dissected Slope,Moderate Vegetation,Dry,Anthropogenic factors,Low
+18.086583,73.909,10,15,8,70.7,1.48,101.4,2,Rock,Fall,Rapid,Active,Confined,Single,Fall,Lowly Dissected Slope,Moderate Vegetation,Dry,Anthropogenic factors,Low
+18.106556,73.909,17,18,6,87.8,1.4,135,7.8,Rock,Fall,Rapid,Active,Widening,Single,Fall,Lowly Dissected Slope,Moderate Vegetation,Wet,"Heavy Rainfall, anthropogenic factors",Low
+18.107833,73.907,18,14,6.5,63.8,2.3,144,10.4,Rock,Fall,Rapid,Active,Widening,Single,Fall,Lowly Dissected Slope,Moderate Vegetation,Wet,"Heavy Rainfall, anthropogenic factors",Low
+18.106056,73.908,17,15,12,74.8,1.66,102.8,8.6,Rock,Fall,Rapid,Active,Widening,Single,Shallow Planar,Lowly Dissected Slope,Moderate Vegetation,Wet,Rainfall,Low
+18.212639,73.907,16,13,11,74.8,1.36,102.8,8.6,Rock,Fall,Rapid,Active,Widening,Single,Fall,Lowly Dissected Slope,Moderate Vegetation,Wet,"Heavy Rainfall, anthropogenic factors",Low
